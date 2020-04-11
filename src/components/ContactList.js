@@ -3,7 +3,7 @@ import Contact from './Contact';
 
   const users = [
     {
-      name: 'Robert Reyes',
+      name: 'Robert Reye',
       avatar: 'https://randomuser.me/api/portraits/men/28.jpg',
       online: false
     },
