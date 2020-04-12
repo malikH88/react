@@ -1,9 +1,21 @@
+h1 {
+  font-size: 1.2rem;
+  color: white;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
 .Contact {
     padding: 1em;
-    background: #555;
-    width: 220px;
+    background: rgb(0, 119, 255);
+    width: 200px;
     display: flex;
     align-items: center;
+    margin: 2px;
   }
   
   /* Contact image */
@@ -18,6 +30,7 @@
   .Contact .name {
     margin: 0 0 0.25rem;
     color: #eee;
+    padding: 0;
   }
   
   /* Status text */
